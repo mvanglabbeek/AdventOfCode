@@ -1,4 +1,4 @@
-package net.vanglabbeek.adventofcode;
+package adventofcode;
 
 import com.google.common.flogger.FluentLogger;
 

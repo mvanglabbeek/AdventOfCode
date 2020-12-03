@@ -1,4 +1,4 @@
-package net.vanglabbeek.adventofcode;
+package adventofcode;
 
 import com.google.common.flogger.FluentLogger;
 
@@ -8,7 +8,6 @@ import java.net.URISyntaxException;
 import java.net.URL;
 import java.nio.file.Files;
 import java.util.List;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public class Day03 {
     private static final FluentLogger LOGGER = FluentLogger.forEnclosingClass();
